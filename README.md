@@ -1,9 +1,23 @@
 # Welcome to my Website! 
 I am currently a CS student at BYU.
-Here you can learn about some of my personal projects I have worked on
+Here you can learn about some of my projects I have worked on
 
 
 ## Projects
+### Temple match 
+[Link to the repository](https://github.com/Baboonebyu/startupW2026.git)
+
+This project was created for BYU's CS260 class. The goal of this project was to create a "Startup" web application of our own design. I chose to make a simple matching game. After loging in you can attempt to match the various temples in Utah. It keeps track of your scores and accuracy and allows you to compare and compeate with other users. This was a great first project to practice full-stack development. 
+
+Some of the Technology used
+- HTML, CSS, JS
+- React
+- MongoDB
+- Websockket
+- EC2 AWS server
+- And more
+
+
 ### 4x4 Tic-Tac-Toe
 [Here is a link to the repository for the project](https://github.com/Baboonebyu/4x4-tic-tac-toe-freecode)\
 \
