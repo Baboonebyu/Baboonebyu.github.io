@@ -7,7 +7,7 @@ Here you can learn about some of my projects I have worked on
 ### Temple match 
 [Link to the repository](https://github.com/Baboonebyu/startupW2026.git)
 
-This project was created for BYU's CS260 class. The goal of this project was to create a "Startup" web application of our own design. I chose to make a simple matching game. After loging in you can attempt to match the various temples in Utah. It keeps track of your scores and accuracy and allows you to compare and compeate with other users. This was a great first project to practice full-stack development. 
+This project was created for BYU's CS260 class. The goal of this project was to create a "Startup" web application of our own design. I chose to make a simple matching game. After logging in, you can attempt to match the various temples in Utah. It keeps track of your scores and accuracy and allows you to compare and compete with other users. This was a great first project to practice full-stack development. While this was a class project, we were given complete creative freedom and just had to include certain technologies and use them in certain ways. Vist my repository to learn more.
 
 Some of the Technology used
 - HTML, CSS, JS
